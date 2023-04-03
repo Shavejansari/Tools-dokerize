@@ -13,4 +13,4 @@
 #URL
 example ========> buildByToken/build?job=RevolutionTest&token=TacoTuesday
 
-Real============>  http://127.0.0.1:8080/buildByToken/build?job=Demo-2&mysecrettocken=TacoTuesday
+Real============>  http://127.0.0.1:8080/buildByToken/build?job=Demo-2&token=mysecrettocken
