@@ -19,3 +19,6 @@ Through web browser ====> http://127.0.0.1:8080/buildByToken/build?job=Demo-2&to
 Through Terminal==>
 ┌──(mohd㉿kali)-[~]
 └─$ curl http://127.0.0.1:8080/buildByToken/build?job=Demo-2\&token=mysecrettocken 
+#
+
+#
