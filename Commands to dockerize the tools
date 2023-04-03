@@ -7,3 +7,10 @@
 #How to Dockerize the Sonarqube.
 #CMD
 └─$ docker run --name sonarqube101 -h sonarqube101 -p 8094:9000 -d -v sonarqube_home:/var/sonarqube_home sonarqube:lts
+
+
+#How to build project in jenkins thorugh URL?
+#URL
+example ========> buildByToken/build?job=RevolutionTest&token=TacoTuesday
+
+Real============>  http://127.0.0.1:8080/buildByToken/build?job=Demo-2&mysecrettocken=TacoTuesday
